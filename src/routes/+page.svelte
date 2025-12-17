@@ -121,6 +121,7 @@
 			{/snippet}
 		</List>
 	</div>
+	<!--
 	<div id="hobbies" class="mt-6">
 		<h2 class="heading-2">Hobbies</h2>
 		<List class="mt-4" list={constants.hobbies}>
@@ -135,4 +136,5 @@
 			{/snippet}
 		</List>
 	</div>
+	-->
 </main>
