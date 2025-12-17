@@ -153,8 +153,8 @@ export const default_links = [
 	{ name: "projects", href: "#projects" },
 	{ name: "education", href: "#education" },
 	//{ name: "experience", href: "#experience" },
-	{ name: "contact", href: "#contact" },
-	{ name: "hobbies", href: "#hobbies" }
+	{ name: "contact", href: "#contact" }
+	//{ name: "hobbies", href: "#hobbies" }
 	//{ name: "say hi!", href: "/say-hi" }
 ];
 
@@ -163,8 +163,8 @@ export const alternate_links = [
 	{ name: "projects", href: "/#projects" },
 	{ name: "education", href: "/#education" },
 	//{ name: "experience", href: "/#experience" },
-	{ name: "contact", href: "/#contact" },
-	{ name: "hobbies", href: "/#hobbies" }
+	{ name: "contact", href: "/#contact" }
+	//{ name: "hobbies", href: "/#hobbies" }
 	//{ name: "say hi!", href: "/say-hi" }
 ];
 
