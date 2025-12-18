@@ -56,7 +56,6 @@ export const skills: Skills = {
 		"Svelte",
 		"Tailwind",
 		"Bun",
-		"Solidjs",
 		"Electrobun",
 		"React",
 		"Electron",

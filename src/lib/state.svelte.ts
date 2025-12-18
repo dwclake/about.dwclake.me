@@ -1,10 +1,13 @@
 import { default_links } from "./constants";
 
-export const store: {
+interface Store {
 	links: { name: string; href: string }[];
-} = $state({
+}
+
+export const store: Store = $state({
 	links: default_links
 });
+
 export const drawings = $state([]);
 export const projects = $state([]);
 export const blogs = $state([]);
